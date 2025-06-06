@@ -1,5 +1,8 @@
 🍠 Hi, I’m @Piglettank
-- 🌱 I’m currently learning Flutter and Game Development in Unity/Unreal/Godot
+- 🌱 I’m currently learning
+  - Flutter
+  - Game Development with Godot
+  - Web dev
 - 📫 How to reach me @piglettank@gmail.com
 
 <!---
