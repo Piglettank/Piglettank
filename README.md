@@ -3,7 +3,7 @@
   - Flutter
   - Game Development with Godot
   - Web dev
-- 📫 Reach me here -> @piglettank@gmail.com
+- 📫 Reach me here -> piglettank@gmail.com
 
 <!---
 Piglettank/Piglettank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
