@@ -1,4 +1,4 @@
-## 🍠 Hellow, I’m @Piglettank
+## 🍠 Heya, I’m @Piglettank
 - 🌱 I’m currently learning
   - Flutter
   - Game Development with Godot
