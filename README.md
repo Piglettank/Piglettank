@@ -1,9 +1,17 @@
-## 🌱 I’m currently learning
-  1. Mobile/web app development (Flutter)
-  2. Game Development (Godot)
-  3. Web development (Astro) 
+## Welcome schwelcome
 
-<!---
-Piglettank/Piglettank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Programming
+🚀 Flutter (Dart) \
+🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛
+\
+\
+🪐 Astro (html/css/js) \
+🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛
+\
+\
+🤖 Godot (GDScript)\
+🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛
+\
+\
+🎮 Unity/Unreal\
+🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛
