@@ -1,16 +1,13 @@
 ## Welcome schwelcome
-Here's my current progress
-🚀 Flutter (Dart) \
+<b>Current progress...</b>\
+\
+🚀 Flutter \
 🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛
 \
 \
-🪐 Astro (html/css/js) \
+🪐 Astro \
 🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛
 \
 \
-🤖 Godot (GDScript)\
+🤖 Godot \
 🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛
-\
-\
-🎮 Unity/Unreal\
-🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛
