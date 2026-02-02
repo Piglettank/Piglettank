@@ -1,5 +1,5 @@
 ## Welcome schwelcome
-<b>Current progress...</b>\
+<b>Learning progress...</b>\
 \
 🚀 Flutter \
 🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛
